@@ -44,4 +44,17 @@ B) Recursion-
 
 C) String_Reverse-
 
-1) 
+1) Start
+
+2) Include the necessary libraries.
+
+3) Define a recursive function called print_rev that takes a character pointer str as its parameter.
+
+4) In the main function:
+a. Declare a character array str to store the input string.
+b. Prompt the user to enter a string.
+c. Read the user's input into the str array.
+d. Call the print_rev function with the str array to reverse and print the string.
+
+6) End
+
