@@ -29,3 +29,19 @@ b. For the recursive case:
 7) Return the result.
 
 8) End
+
+B) Recursion-
+
+1) Start
+
+2) Include the necessary C++ libraries.
+
+3) Define a recursive function called reverse that takes an integer n as its parameter.
+
+4) In the main function (not explicitly shown in your provided code), you can call the reverse function with a positive integer as an argument to reverse and print its digits in reverse order.
+
+5) End.
+
+C) String_Reverse-
+
+1) 
